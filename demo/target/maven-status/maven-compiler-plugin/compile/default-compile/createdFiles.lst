@@ -1,0 +1,3 @@
+app_messagerie\ClientChatIHM.class
+app_messagerie\ServeurChat.class
+app_messagerie\ServeurChat$GerantDeClient.class
